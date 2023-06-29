@@ -2,6 +2,10 @@ package sort;
 
 import java.util.Arrays;
 
+// public static void main(String[] args) {
+//     int[] arr = {7, 3, 5, 9, 11, 8, 6, 15, 10, 12, 14};
+//     radixSort(arr, a.length)
+// }
 public class RaidxSort {
 
     private void countingSort(int array[], int size, int place) {
